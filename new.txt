@@ -1,0 +1,6 @@
+Name: Yaroslav
+Sername: Yaroslavov
+Patronymic: Yaroslavovich
+Age: 25
+Count home pets: 1
+Future expected salary: 1000$+
