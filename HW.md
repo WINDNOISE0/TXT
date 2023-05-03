@@ -24,11 +24,11 @@ TXT
  7. Отредактировать содержание файла “new.txt” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате TXT.
  # nano new.txt
  Name: Yaroslav
- Sername: Yaroslavov
- Patronymic: Yaroslavovich
- Age: 25
- Count home pets: 1
- Future expected salary: 1000$+
+ Sername: Yaroslavov\n
+ Patronymic: Yaroslavovich\n
+ Age: 25\n
+ Count home pets: 1\n
+ Future expected salary: 1000$+\n
 
  8. Отправить изменения на внешний репозиторий.
  $ git push -u origin main
